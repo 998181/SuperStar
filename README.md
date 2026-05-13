@@ -24,7 +24,6 @@
 <a href="https://blog.springing.top/p/20241119/" target="blank">点击我查看操作说明</a>
 
 <a href="https://github.com/Samueli924/chaoxing" target="blank">灵感来源</a>
-# Star History
 
 ## Star History
 <a href="https://www.star-history.com/?repos=lispringing%2FSuperStar&type=date&legend=top-left">
